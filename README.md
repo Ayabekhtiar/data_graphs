@@ -2,7 +2,7 @@
 This repository is about the TP2 of the data graphs class. This is the link to the TP: https://gist.github.com/bdallard/1768cca37311a7b2d57f14458c9644b0 
 
 ## Steps to follow
-- To find the screenshot deliverables, please refer to the uploaded files section. 
+- To find the screenshot deliverables, please refer to the uploaded deliverables folder in the files section. 
 - For the short note deliverable, please refer to the text below. 
 
 ## Short note
