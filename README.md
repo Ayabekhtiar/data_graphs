@@ -1,7 +1,7 @@
 # Readme
 This repository is about the TP2 of the data graphs class. 
 - To find the screenshot deliverables, please refer to the uploaded files section. 
-- For the short note, please refer to the text below. 
+- For the short note deliverable, please refer to the text below. 
 
 ## Short note
 ### Recommendation strategy
